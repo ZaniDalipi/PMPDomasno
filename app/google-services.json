@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302090456041",
+    "firebase_url": "https://pmpdomasno.firebaseio.com",
+    "project_id": "pmpdomasno",
+    "storage_bucket": "pmpdomasno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302090456041:android:f5f55a2134f99bf7",
+        "android_client_info": {
+          "package_name": "mk.edu.fikt.pmpdomasno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302090456041-eacqbafbhoss2n375blclhacbabmk1pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mk.edu.fikt.pmpdomasno",
+            "certificate_hash": "417efce15ab31845534394c0efaeb7eb2d91609c"
+          }
+        },
+        {
+          "client_id": "302090456041-2hvp2ogsjb93529qhcd2g0q222aqa33p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46VuQiULIJK62o6LQ0q8c--2La71r9lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302090456041-2hvp2ogsjb93529qhcd2g0q222aqa33p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
